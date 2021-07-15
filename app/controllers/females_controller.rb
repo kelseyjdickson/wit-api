@@ -44,6 +44,6 @@ class FemalesController < ApplicationController
     private
 
     def female_params
-        params.permit(:name, :company,:job_title,:contact_link, :image
+        params.permit(:name, :company,:job_title,:contact_link, :image)
     end
 end
