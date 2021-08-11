@@ -56,6 +56,13 @@ reshma = Female.create({
         image: 'https://media-exp1.licdn.com/dms/image/C4D03AQEu66656x4unA/profile-displayphoto-shrink_200_200/0/1621632282104?e=1631750400&v=beta&t=v92SoqTww7nnaNIooAJUmyNGQa0pNgggNVzCpyKGFMQ'
 
       })
+tiauna = Female.create({
+    name: 'Tiauna Paul',
+    company:'New Relic',
+    job_title: 'Community Support Engineer',
+    contact_link: 'https://www.linkedin.com/in/tiauna-paul-0981ab193/',
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQG4USrSxVttPg/profile-displayphoto-shrink_200_200/0/1608185300218?e=1634169600&v=beta&t=nlaoNaO4bsX2bsj0N0j_Zaqt5TtayyeAgWLZCvlP2Rg'
+})
       puts 'Done seeding females'
       puts 'seeding blogs'
 
@@ -85,8 +92,29 @@ reshma = Female.create({
 name_of_blog: 'Women to Watch in Tech in 2021',
 blog_num: 1,
 female: reshma
-}
-      ])
+},
+{
+name_of_blog: "Women to Watch in Tech in 2021, Part II",
+blog_num: 2,
+female: tiauna
+},
+{
+name_of_blog: "Women to Watch in Tech in 2021, Part II",
+blog_num: 2,
+female: veni
+},
+{
+name_of_blog: "Women to Watch in Tech in 2021, Part II",
+blog_num: 2,
+female: catherine
+},
+{
+name_of_blog: "Women to Watch in Tech in 2021, Part II",
+blog_num: 2,
+female: naz
+},
+],
+      )
 
 
     
