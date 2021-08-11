@@ -63,6 +63,27 @@ tiauna = Female.create({
     contact_link: 'https://www.linkedin.com/in/tiauna-paul-0981ab193/',
     image: 'https://media-exp1.licdn.com/dms/image/C4D03AQG4USrSxVttPg/profile-displayphoto-shrink_200_200/0/1608185300218?e=1634169600&v=beta&t=nlaoNaO4bsX2bsj0N0j_Zaqt5TtayyeAgWLZCvlP2Rg'
 })
+veni = Female.create({
+    name: 'Veni Kunche',
+    company:'Diversify Tech',
+    job_title: 'Founder of Diversify Tech',
+    contact_link: 'https://www.linkedin.com/in/venikunche/',
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQH90S-5fJpE6g/profile-displayphoto-shrink_200_200/0/1516260984901?e=1634169600&v=beta&t=DbIgrpjQSk8PWqP10tylw1tLdHKAb5HygYG_imwu_a8'
+})
+catherine = Female.create({
+    name: 'Catherine Ricafort McCreary',
+    company:'Stitch Fix',
+    job_title: 'Software Engineer and Co-Founder of Artists Who Code',
+    contact_link: 'https://www.linkedin.com/in/catherinericafortmccreary/',
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQE2-xUyIyijQg/profile-displayphoto-shrink_200_200/0/1569865760735?e=1634169600&v=beta&t=zQ3oZRC6x9pnTxBwvIEoua2jXZn32aYLyYvxpHu3ghc'
+})
+naz = Female.create({
+    name: 'Naz Delam',
+    company:'Netflix',
+    job_title: 'Production Engineer and Career Coach',
+    contact_link: 'https://www.linkedin.com/in/nazdelam/',
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQFcy026KYXmxQ/profile-displayphoto-shrink_200_200/0/1615857111950?e=1634169600&v=beta&t=A2zvP85QRWFc7MsDzeH7mZJ7dslgKsXcBVRfFtSknPs'
+})
       puts 'Done seeding females'
       puts 'seeding blogs'
 
