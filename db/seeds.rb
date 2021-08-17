@@ -25,7 +25,7 @@ kristal = Female.create({
         company: "Year One",
         job_title: 'Chief Strategy Officer',
         contact_link: 'https://www.linkedin.com/in/kgarcia4/',
-        image: 'https://media-exp1.licdn.com/dms/image/C5603AQF0Z_tWZ1Islg/profile-displayphoto-shrink_800_800/0/1516235373484?e=1631750400&v=beta&t=N2fxbk_VJ9NoDaxRKrV1I3H8CFuwNV-4SIP_Pvc8y2w'
+        image: 'https://media-exp1.licdn.com/dms/image/C5603AQHLXPPW9BrDuQ/profile-displayphoto-shrink_400_400/0/1600981335532?e=1634774400&v=beta&t=7ymEp66j6zMZHNfSy6KTqcT_8IA2qnuBF1o2TnjWbVw'
       
       })
 erica = Female.create({
