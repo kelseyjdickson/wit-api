@@ -84,6 +84,13 @@ naz = Female.create({
     contact_link: 'https://www.linkedin.com/in/nazdelam/',
     image: 'https://media-exp1.licdn.com/dms/image/C5603AQFcy026KYXmxQ/profile-displayphoto-shrink_200_200/0/1615857111950?e=1634169600&v=beta&t=A2zvP85QRWFc7MsDzeH7mZJ7dslgKsXcBVRfFtSknPs'
 })
+manon = Female.create({
+    name: 'Manon Sainton',
+    company:'Netflix',
+    job_title: 'Software Engineer - Artist',
+    contact_link: 'https://www.linkedin.com/in/manon-sainton-7830b01ab/',
+    image: 'https://media-exp1.licdn.com/dms/image/C4E03AQHrouWw4QWN8Q/profile-displayphoto-shrink_200_200/0/1611784379011?e=1634774400&v=beta&t=BxZnoaJw-AQbLWfKNuwljK4dhsM48x3LchIZv7Qc5i0'
+})
       puts 'Done seeding females'
       puts 'seeding blogs'
 
@@ -134,6 +141,26 @@ name_of_blog: "Women to Watch in Tech in 2021, Part II",
 blog_num: 2,
 female: naz
 },
+{
+    name_of_blog: "Women to Watch in Tech in 2021, Part III",
+    blog_num: 3,
+    female: manon
+    },
+    {
+    name_of_blog: "Women to Watch in Tech in 2021, Part III",
+    blog_num: 3,
+    female: sammi
+    },
+    {
+    name_of_blog: "Women to Watch in Tech in 2021, Part III",
+    blog_num: 3,
+    female: nadine
+    },
+    {
+    name_of_blog: "Women to Watch in Tech in 2021, Part III",
+    blog_num: 3,
+    female: netaly
+    },
 ],
       )
 
