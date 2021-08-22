@@ -71,7 +71,7 @@ veni = Female.create({
     image: 'https://media-exp1.licdn.com/dms/image/C4D03AQH90S-5fJpE6g/profile-displayphoto-shrink_200_200/0/1516260984901?e=1634169600&v=beta&t=DbIgrpjQSk8PWqP10tylw1tLdHKAb5HygYG_imwu_a8'
 })
 catherine = Female.create({
-    name: 'Catherine Ricafort McCreary',
+    name: 'Catherine McCreary',
     company:'Stitch Fix',
     job_title: 'Software Engineer and Co-Founder of Artists Who Code',
     contact_link: 'https://www.linkedin.com/in/catherinericafortmccreary/',
@@ -86,60 +86,81 @@ naz = Female.create({
 })
 manon = Female.create({
     name: 'Manon Sainton',
-    company:'Netflix',
+    company:'Currently Job Seeking',
     job_title: 'Software Engineer - Artist',
     contact_link: 'https://www.linkedin.com/in/manon-sainton-7830b01ab/',
     image: 'https://media-exp1.licdn.com/dms/image/C4E03AQHrouWw4QWN8Q/profile-displayphoto-shrink_200_200/0/1611784379011?e=1634774400&v=beta&t=BxZnoaJw-AQbLWfKNuwljK4dhsM48x3LchIZv7Qc5i0'
 })
-      puts 'Done seeding females'
-      puts 'seeding blogs'
+sammi = Female.create({
+    name: 'Samantha Flores',
+    company:'SourceStrike',
+    job_title: 'Software Engineer',
+    contact_link: 'https://www.linkedin.com/in/samantha-flores-313024112/',
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEhpvVMlO4Naw/profile-displayphoto-shrink_200_200/0/1609364301369?e=1634774400&v=beta&t=IBiDqvBJTTorh9zuZVkDRWxGq012gsZsktY3WooxzOk'
+})
+nadine = Female.create({
+    name: 'Nadine Dixon',
+    company:'Resolve To Save Lives',
+    job_title: 'HR - Tech Community Organizer',
+    contact_link: 'https://www.linkedin.com/in/nadinedixon/',
+    image: 'https://miro.medium.com/max/500/1*iGYSBLvMvya4UCekJ7cSow.png'
+})
+netaly = Female.create({
+    name: 'Netaly Ramierz',
+    company:'Spotify',
+    job_title: 'Software Engineer',
+    contact_link: 'https://www.linkedin.com/in/netalyramirez/',
+    image: 'https://miro.medium.com/max/500/1*uKE0Hxr2IaU580PoaDbIPA.png'
+})
+puts 'Done seeding females'
+puts 'seeding blogs'
 
-      Blog.create([
-          {
-              name_of_blog: 'Women to Watch in Tech in 2021',
-              blog_num: 1,
-              female: joy
+Blog.create([
+    {
+    name_of_blog: 'Women to Watch in Tech in 2021',
+    blog_num: 1,
+    female: joy
 
-          },
-        {
-          name_of_blog: 'Women to Watch in Tech in 2021',
-          blog_num: 1,
-          female: kristal
-        },
-        {
+    },
+    {
+    name_of_blog: 'Women to Watch in Tech in 2021',
+    blog_num: 1,
+    female: kristal
+    },
+    {
     name_of_blog: 'Women to Watch in Tech in 2021',
     blog_num: 1,
     female: erica
   }, 
   {
-  name_of_blog: 'Women to Watch in Tech in 2021',
-  blog_num: 1,
-  female: kimberly
+    name_of_blog: 'Women to Watch in Tech in 2021',
+    blog_num: 1,
+    female: kimberly
 }, 
 {
-name_of_blog: 'Women to Watch in Tech in 2021',
-blog_num: 1,
-female: reshma
+    name_of_blog: 'Women to Watch in Tech in 2021',
+    blog_num: 1,
+    female: reshma
 },
 {
-name_of_blog: "Women to Watch in Tech in 2021, Part II",
-blog_num: 2,
-female: tiauna
+    name_of_blog: "Women to Watch in Tech in 2021, Part II",
+    blog_num: 2,
+    female: tiauna
 },
 {
-name_of_blog: "Women to Watch in Tech in 2021, Part II",
-blog_num: 2,
-female: veni
+    name_of_blog: "Women to Watch in Tech in 2021, Part II",
+    blog_num: 2,
+    female: veni
 },
 {
-name_of_blog: "Women to Watch in Tech in 2021, Part II",
-blog_num: 2,
-female: catherine
+    name_of_blog: "Women to Watch in Tech in 2021, Part II",
+    blog_num: 2,
+    female: catherine
 },
 {
-name_of_blog: "Women to Watch in Tech in 2021, Part II",
-blog_num: 2,
-female: naz
+    name_of_blog: "Women to Watch in Tech in 2021, Part II",
+    blog_num: 2,
+    female: naz
 },
 {
     name_of_blog: "Women to Watch in Tech in 2021, Part III",
