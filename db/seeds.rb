@@ -73,14 +73,14 @@ veni = Female.create({
 catherine = Female.create({
     name: 'Catherine McCreary',
     company:'Stitch Fix',
-    job_title: 'Software Engineer and Co-Founder of Artists Who Code',
+    job_title: 'Software Engineer - Artists Who Code',
     contact_link: 'https://www.linkedin.com/in/catherinericafortmccreary/',
     image: 'https://media-exp1.licdn.com/dms/image/C4D03AQE2-xUyIyijQg/profile-displayphoto-shrink_200_200/0/1569865760735?e=1634169600&v=beta&t=zQ3oZRC6x9pnTxBwvIEoua2jXZn32aYLyYvxpHu3ghc'
 })
 naz = Female.create({
     name: 'Naz Delam',
     company:'Netflix',
-    job_title: 'Production Engineer and Career Coach',
+    job_title: 'Production Engineer - Career Coach',
     contact_link: 'https://www.linkedin.com/in/nazdelam/',
     image: 'https://media-exp1.licdn.com/dms/image/C5603AQFcy026KYXmxQ/profile-displayphoto-shrink_200_200/0/1615857111950?e=1634169600&v=beta&t=A2zvP85QRWFc7MsDzeH7mZJ7dslgKsXcBVRfFtSknPs'
 })
