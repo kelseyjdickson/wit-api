@@ -112,6 +112,27 @@ netaly = Female.create({
     contact_link: 'https://www.linkedin.com/in/netalyramirez/',
     image: 'https://miro.medium.com/max/500/1*uKE0Hxr2IaU580PoaDbIPA.png'
 })
+fariha = Female.create({
+    name: 'Fariha Tasnim',
+    company:'The Cohort Collective',
+    job_title: 'Technical Writer + Career Coach',
+    contact_link: 'https://www.linkedin.com/in/farihatsm/',
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEIT-uBdfMdIA/profile-displayphoto-shrink_400_400/0/1622681738591?e=1636588800&v=beta&t=55YvYbOJLTveXcT2o3XvPKDcaC21NURaZp0XT62JMss'
+})
+juliana = Female.create({
+    name: 'Juliana Almeida',
+    company:'Remix at Via',
+    job_title: 'Software Engineer',
+    contact_link: 'https://www.linkedin.com/in/julianaalmeida78/',
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEjxulYoXRLxw/profile-displayphoto-shrink_400_400/0/1561679294556?e=1636588800&v=beta&t=6fy0pUKh1omhQXoavDrMftnei1AZWS_EA0_hGqDI7qk'
+})
+bedilia = Female.create({
+    name: 'Bedilia Ramirez',
+    company:'projectBASTA',
+    job_title: 'Senior Manager of Employer Partnerships',
+    contact_link: 'https://www.linkedin.com/in/bediliaramirez/',
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQFLMC8WhsOVmQ/profile-displayphoto-shrink_400_400/0/1606314652048?e=1636588800&v=beta&t=LbeSz6DhJI2xPYy880KUsoknir4lY0s534FofhAukJ0'
+})
 puts 'Done seeding females'
 puts 'seeding blogs'
 
@@ -182,6 +203,22 @@ Blog.create([
     blog_num: 3,
     female: netaly
     },
+    {
+    name_of_blog: "Women to Watch in Tech in 2021, Part IV",
+    blog_num: 4,
+    female: fariha
+    },
+    {
+    name_of_blog: "Women to Watch in Tech in 2021, Part IV",
+    blog_num: 4,
+    female: juliana
+    },
+    {
+    name_of_blog: "Women to Watch in Tech in 2021, Part IV",
+    blog_num: 4,
+    female: bedilia
+        },
+        
 ],
       )
 
