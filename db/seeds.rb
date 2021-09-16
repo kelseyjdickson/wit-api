@@ -15,7 +15,7 @@ joy = Female.create ({
         company: "Algorithmic Justice League",
         job_title: 'Computer Scientist - Poet of Code',
         contact_link: 'https://www.linkedin.com/in/buolamwini/',
-        image: 'https://media-exp1.licdn.com/dms/image/C4E03AQGpjkHt21lTww/profile-displayphoto-shrink_800_800/0/1579368606627?e=1631750400&v=beta&t=yVCP1l53H14GWQo6f570Ohgqv-u_ONw3Eje4Gu3qkzE'
+        image: 'https://media-exp1.licdn.com/dms/image/C4E03AQGpjkHt21lTww/profile-displayphoto-shrink_200_200/0/1579368606627?e=1637193600&v=beta&t=L4SVsa9w3hTaRrI9YlwI1ApDpULotkWwAs-nsn-knaI'
 
     })
 
@@ -34,7 +34,7 @@ erica = Female.create({
         company: "DCCC",
         job_title: 'Chief Technology Officer',
         contact_link: 'https://www.linkedin.com/in/ericajoy/',
-        image: 'https://media-exp1.licdn.com/dms/image/C5603AQF0Z_tWZ1Islg/profile-displayphoto-shrink_800_800/0/1516235373484?e=1631750400&v=beta&t=N2fxbk_VJ9NoDaxRKrV1I3H8CFuwNV-4SIP_Pvc8y2w'
+        image: 'https://media-exp1.licdn.com/dms/image/C5603AQF0Z_tWZ1Islg/profile-displayphoto-shrink_800_800/0/1516235373484?e=1637193600&v=beta&t=4UWqHOvvQJVAC0cyc9xRBgygJJxVgwc9_WHT85QYzVs'
 
       })
 
@@ -44,7 +44,7 @@ kimberly = Female.create({
           company: "Black Girls Code",
           job_title: 'Founder and CEO of Black Girls Code',
           contact_link: 'https://www.linkedin.com/in/kimberlybryant/',
-          image: 'https://media-exp1.licdn.com/dms/image/C5603AQF8s0RURIyiVg/profile-displayphoto-shrink_800_800/0/1525450649976?e=1631750400&v=beta&t=ESrLPpi-sqfA_iWkLBYSXcr8g2VLxPZSTdAznG2lD6g'
+          image: 'https://media-exp1.licdn.com/dms/image/C5603AQF8s0RURIyiVg/profile-displayphoto-shrink_400_400/0/1525450649976?e=1637193600&v=beta&t=cn16HH5cbvlYIft0rwCbphZXKqdLQxybOSgL_PNDAOw'
 
       })
 reshma = Female.create({
@@ -53,7 +53,7 @@ reshma = Female.create({
         company: "Girls Who Code",
         job_title: 'Founder of Girls Who Code',
         contact_link: 'https://www.linkedin.com/in/reshma-saujani/',
-        image: 'https://media-exp1.licdn.com/dms/image/C4D03AQEu66656x4unA/profile-displayphoto-shrink_200_200/0/1621632282104?e=1631750400&v=beta&t=v92SoqTww7nnaNIooAJUmyNGQa0pNgggNVzCpyKGFMQ'
+        image: 'https://media-exp1.licdn.com/dms/image/C4D03AQEu66656x4unA/profile-displayphoto-shrink_400_400/0/1621632282104?e=1637193600&v=beta&t=EUsT0ZUWUhWQWjA9zChtq_mvsiusekq9g0roiRzTqAQ'
 
       })
 tiauna = Female.create({
