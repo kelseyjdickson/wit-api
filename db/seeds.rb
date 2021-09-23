@@ -117,7 +117,7 @@ fariha = Female.create({
     company:'The Cohort Collective',
     job_title: 'Technical Writer + Career Coach',
     contact_link: 'https://www.linkedin.com/in/farihatsm/',
-    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEIT-uBdfMdIA/profile-displayphoto-shrink_400_400/0/1622681738591?e=1636588800&v=beta&t=55YvYbOJLTveXcT2o3XvPKDcaC21NURaZp0XT62JMss'
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQH8Sx0FhkV70Q/profile-displayphoto-shrink_400_400/0/1632185921693?e=1637798400&v=beta&t=zBDxIpF3xObWDLQCuevkRWbJXcoqRTD30bRTHDk0Z3I'
 })
 juliana = Female.create({
     name: 'Juliana Almeida',
