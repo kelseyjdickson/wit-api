@@ -82,7 +82,7 @@ naz = Female.create({
     company:'Netflix',
     job_title: 'Production Engineer - Career Coach',
     contact_link: 'https://www.linkedin.com/in/nazdelam/',
-    image: 'https://media-exp1.licdn.com/dms/image/C5603AQFcy026KYXmxQ/profile-displayphoto-shrink_200_200/0/1615857111950?e=1634169600&v=beta&t=A2zvP85QRWFc7MsDzeH7mZJ7dslgKsXcBVRfFtSknPs'
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQFhfY6WyWXeIg/profile-displayphoto-shrink_200_200/0/1632031323112?e=1638403200&v=beta&t=zRp5B_o6NtKzZIM9CLFAaB1DZGcZ7okYxhMXVmQqtkw'
 })
 manon = Female.create({
     name: 'Manon Sainton',
