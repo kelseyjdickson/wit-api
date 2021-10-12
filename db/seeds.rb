@@ -97,7 +97,7 @@ manon = Female.create({
     job_title: 'Software Engineer - Artist',
     contact_link: 'https://www.linkedin.com/in/manon-sainton-7830b01ab/',
     image: 'https://media-exp1.licdn.com/dms/image/C4E03AQHrouWw4QWN8Q/profile-displayphoto-shrink_200_200/0/1611784379011?e=1634774400&v=beta&t=BxZnoaJw-AQbLWfKNuwljK4dhsM48x3LchIZv7Qc5i0',
-    women_text:
+    women_text: "Manon is a Software Engineer and an NYC-based artist who goes by Sleepyfoot?. Manon has a background in art, education and technology. After working closely with engineers and data scientists in a previous role, Manon began to think about how she could incorporate tech into her practice as a synesthetic interdisciplinary artist. In 2020, Manon attended Flatiron School’s Software Engineering program. Manon is passionate about access and imagination. Manon says,” What can we build for communities? As we gain more experience during our time as an engineer, what can we conceive through code? What amendments can we make or solutions can we find that will shatter broken realities? I love the intersection of ideas and imagination. I’m excited to see what the future will bring!” Manon’s goals include helping bring exposure and helping women of color enter the tech industry. Manon believes in having a community to lean on without fancy word speak, bringing true authenticity, and providing support/empathy for any insecurities that may arise."
 })
 sammi = Female.create({
     name: 'Samantha Flores',
@@ -105,7 +105,7 @@ sammi = Female.create({
     job_title: 'Software Engineer',
     contact_link: 'https://www.linkedin.com/in/samantha-flores-313024112/',
     image: 'https://media-exp1.licdn.com/dms/image/C5603AQEhpvVMlO4Naw/profile-displayphoto-shrink_200_200/0/1609364301369?e=1634774400&v=beta&t=IBiDqvBJTTorh9zuZVkDRWxGq012gsZsktY3WooxzOk',
-    women_text:
+    women_text: 'Sammi’s background is in microbiology with an emphasis in medical lab research and testing, but she found a new passion for development after attending a full-stack coding boot camp at the University of California, Irvine in 2019. Since then she has experience working as a full-stack engineer at a fast-paced online start-up visualizing data in graphical formats, overhauling old and worn out features to reduce technical debt, and working closely with a small team to increase overall knowledge. Her career goals include becoming the type of mentor she always wanted and/or was lucky enough to have; constantly learning and passing that knowledge along to others, and never forgetting that it’s all “just code” and every problem is approachable. Personally, she hopes to become a better runner/run a 10k by the end of the year, get better at her hobby of making resin D&D/TTRPG dice, and to travel to every MLB stadium.'
 })
 nadine = Female.create({
     name: 'Nadine Dixon',
@@ -113,7 +113,7 @@ nadine = Female.create({
     job_title: 'HR - Tech Community Organizer',
     contact_link: 'https://www.linkedin.com/in/nadinedixon/',
     image: 'https://miro.medium.com/max/500/1*iGYSBLvMvya4UCekJ7cSow.png',
-    women_text:''
+    women_text:'In 2018, Nadine founded Women Coder Newbies Connect, a meetup group for women aged 30 and up who were learning to code on their own via online resources. Nadine was inspired to launch the group after doing a contract HR job at a tech company where she was one of only two Black women with about a 90 person staff at the time. The experience made her aware of the lack of women in tech and particularly women of color. This fueled her to launch the meetup to provide a supportive community of women seeking to break into tech by learning to code. Nadine continued to support her core members during the pandemic by hosting check-in meetings, speaker events online as well as one-on-one career consultations. Through leading the meetup group, Nadine discovered that while she enjoys learning to code, she is most passionate about coaching and advocating for women pursuing careers in tech. Nadine believes in helping to foster connections for them that encourage and inspire them to keep going no matter what state they’re at in their pursuit. Nadine has goals of applying the skills she’s gained through HR, recruiting and meetup leadership in an organization that is focused on increasing the number of women and minorities in the tech industry.'
 })
 netaly = Female.create({
     name: 'Netaly Ramierz',
@@ -121,7 +121,7 @@ netaly = Female.create({
     job_title: 'Software Engineer',
     contact_link: 'https://www.linkedin.com/in/netalyramirez/',
     image: 'https://miro.medium.com/max/500/1*uKE0Hxr2IaU580PoaDbIPA.png',
-    women_text:''
+    women_text:'Netaly was working as a barista and studying restorative dentistry and coursework in anthropology before breaking into the tech space. Like many, job stability is what reeled her into the field. Netaly was instantly hooked by the feeling of struggling to understand or solve a problem and the gratification that comes when able to solve it. Community is another important factor. Netaly is inspired by the tech community’s collective effort to increase the knowledge base. Netaly says,” Coming from a religious immigrant household it was a breath of fresh air to be part of a community where I could question everything and have the ability to discuss.” Netaly volunteers at Femmecubator, a community-driven platform whose main goal is to help marginalized groups specifically women and women of color transition into tech jobs, with the focus on offering mentorship and resources. At Femmecubator, Netaly was inspired by her mentors who opened her eyes to the world of Civic Tech. Netaly hopes to help join the fight in creating a space where communities can be heard and to increase awareness while using all of her newly formed powers for good. Netaly is most excited to give back to those starting their own journey into tech.'
 })
 fariha = Female.create({
     name: 'Fariha Tasnim',
