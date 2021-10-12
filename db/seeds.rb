@@ -129,7 +129,7 @@ juliana = Female.create({
 bedilia = Female.create({
     name: 'Bedilia Ramirez',
     company:'projectBASTA',
-    job_title: 'Senior Manager of Employer Partnerships',
+    job_title: 'Employer Partnerships',
     contact_link: 'https://www.linkedin.com/in/bediliaramirez/',
     image: 'https://media-exp1.licdn.com/dms/image/C5603AQFLMC8WhsOVmQ/profile-displayphoto-shrink_400_400/0/1606314652048?e=1636588800&v=beta&t=LbeSz6DhJI2xPYy880KUsoknir4lY0s534FofhAukJ0'
 })
