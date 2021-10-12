@@ -64,77 +64,88 @@ tiauna = Female.create({
     company:'New Relic',
     job_title: 'Community Support Engineer',
     contact_link: 'https://www.linkedin.com/in/tiauna-paul-0981ab193/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQG4USrSxVttPg/profile-displayphoto-shrink_200_200/0/1608185300218?e=1634169600&v=beta&t=nlaoNaO4bsX2bsj0N0j_Zaqt5TtayyeAgWLZCvlP2Rg'
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQG4USrSxVttPg/profile-displayphoto-shrink_200_200/0/1608185300218?e=1634169600&v=beta&t=nlaoNaO4bsX2bsj0N0j_Zaqt5TtayyeAgWLZCvlP2Rg',
+    women_text:''
 })
 veni = Female.create({
     name: 'Veni Kunche',
     company:'Diversify Tech',
     job_title: 'Founder of Diversify Tech',
     contact_link: 'https://www.linkedin.com/in/venikunche/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQH90S-5fJpE6g/profile-displayphoto-shrink_200_200/0/1516260984901?e=1634169600&v=beta&t=DbIgrpjQSk8PWqP10tylw1tLdHKAb5HygYG_imwu_a8'
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQH90S-5fJpE6g/profile-displayphoto-shrink_200_200/0/1516260984901?e=1634169600&v=beta&t=DbIgrpjQSk8PWqP10tylw1tLdHKAb5HygYG_imwu_a8',
+    women_text:''
 })
 catherine = Female.create({
     name: 'Catherine McCreary',
     company:'Stitch Fix',
     job_title: 'Software Engineer - Artists Who Code',
     contact_link: 'https://www.linkedin.com/in/catherinericafortmccreary/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQE2-xUyIyijQg/profile-displayphoto-shrink_200_200/0/1569865760735?e=1634169600&v=beta&t=zQ3oZRC6x9pnTxBwvIEoua2jXZn32aYLyYvxpHu3ghc'
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQE2-xUyIyijQg/profile-displayphoto-shrink_200_200/0/1569865760735?e=1634169600&v=beta&t=zQ3oZRC6x9pnTxBwvIEoua2jXZn32aYLyYvxpHu3ghc',
+    women_text:
 })
 naz = Female.create({
     name: 'Naz Delam',
     company:'Netflix',
     job_title: 'Production Engineer - Career Coach',
     contact_link: 'https://www.linkedin.com/in/nazdelam/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQFhfY6WyWXeIg/profile-displayphoto-shrink_200_200/0/1632031323112?e=1638403200&v=beta&t=zRp5B_o6NtKzZIM9CLFAaB1DZGcZ7okYxhMXVmQqtkw'
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQFhfY6WyWXeIg/profile-displayphoto-shrink_200_200/0/1632031323112?e=1638403200&v=beta&t=zRp5B_o6NtKzZIM9CLFAaB1DZGcZ7okYxhMXVmQqtkw',
+    women_text:
 })
 manon = Female.create({
     name: 'Manon Sainton',
     company:'Currently Job Seeking',
     job_title: 'Software Engineer - Artist',
     contact_link: 'https://www.linkedin.com/in/manon-sainton-7830b01ab/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4E03AQHrouWw4QWN8Q/profile-displayphoto-shrink_200_200/0/1611784379011?e=1634774400&v=beta&t=BxZnoaJw-AQbLWfKNuwljK4dhsM48x3LchIZv7Qc5i0'
+    image: 'https://media-exp1.licdn.com/dms/image/C4E03AQHrouWw4QWN8Q/profile-displayphoto-shrink_200_200/0/1611784379011?e=1634774400&v=beta&t=BxZnoaJw-AQbLWfKNuwljK4dhsM48x3LchIZv7Qc5i0',
+    women_text:
 })
 sammi = Female.create({
     name: 'Samantha Flores',
     company:'SourceStrike',
     job_title: 'Software Engineer',
     contact_link: 'https://www.linkedin.com/in/samantha-flores-313024112/',
-    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEhpvVMlO4Naw/profile-displayphoto-shrink_200_200/0/1609364301369?e=1634774400&v=beta&t=IBiDqvBJTTorh9zuZVkDRWxGq012gsZsktY3WooxzOk'
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEhpvVMlO4Naw/profile-displayphoto-shrink_200_200/0/1609364301369?e=1634774400&v=beta&t=IBiDqvBJTTorh9zuZVkDRWxGq012gsZsktY3WooxzOk',
+    women_text:
 })
 nadine = Female.create({
     name: 'Nadine Dixon',
     company:'Resolve To Save Lives',
     job_title: 'HR - Tech Community Organizer',
     contact_link: 'https://www.linkedin.com/in/nadinedixon/',
-    image: 'https://miro.medium.com/max/500/1*iGYSBLvMvya4UCekJ7cSow.png'
+    image: 'https://miro.medium.com/max/500/1*iGYSBLvMvya4UCekJ7cSow.png',
+    women_text:''
 })
 netaly = Female.create({
     name: 'Netaly Ramierz',
     company:'Spotify',
     job_title: 'Software Engineer',
     contact_link: 'https://www.linkedin.com/in/netalyramirez/',
-    image: 'https://miro.medium.com/max/500/1*uKE0Hxr2IaU580PoaDbIPA.png'
+    image: 'https://miro.medium.com/max/500/1*uKE0Hxr2IaU580PoaDbIPA.png',
+    women_text:''
 })
 fariha = Female.create({
     name: 'Fariha Tasnim',
     company:'The Cohort Collective',
     job_title: 'Technical Writer + Career Coach',
     contact_link: 'https://www.linkedin.com/in/farihatsm/',
-    image: 'https://media-exp1.licdn.com/dms/image/C5603AQGM0DY58Npmcg/profile-displayphoto-shrink_200_200/0/1632453262188?e=1637798400&v=beta&t=TqYD0LsHc8Qo2Eqf7l47TEIn5uxw-pEN_tprGBoy6ck'
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQGM0DY58Npmcg/profile-displayphoto-shrink_200_200/0/1632453262188?e=1637798400&v=beta&t=TqYD0LsHc8Qo2Eqf7l47TEIn5uxw-pEN_tprGBoy6ck',
+    women_text:''
 })
 juliana = Female.create({
     name: 'Juliana Almeida',
     company:'Remix at Via',
     job_title: 'Software Engineer',
     contact_link: 'https://www.linkedin.com/in/julianaalmeida78/',
-    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEjxulYoXRLxw/profile-displayphoto-shrink_400_400/0/1561679294556?e=1636588800&v=beta&t=6fy0pUKh1omhQXoavDrMftnei1AZWS_EA0_hGqDI7qk'
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEjxulYoXRLxw/profile-displayphoto-shrink_400_400/0/1561679294556?e=1636588800&v=beta&t=6fy0pUKh1omhQXoavDrMftnei1AZWS_EA0_hGqDI7qk',
+    women_text:''
 })
 bedilia = Female.create({
     name: 'Bedilia Ramirez',
     company:'projectBASTA',
     job_title: 'Employer Partnerships',
     contact_link: 'https://www.linkedin.com/in/bediliaramirez/',
-    image: 'https://media-exp1.licdn.com/dms/image/C5603AQFLMC8WhsOVmQ/profile-displayphoto-shrink_400_400/0/1606314652048?e=1636588800&v=beta&t=LbeSz6DhJI2xPYy880KUsoknir4lY0s534FofhAukJ0'
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQFLMC8WhsOVmQ/profile-displayphoto-shrink_400_400/0/1606314652048?e=1636588800&v=beta&t=LbeSz6DhJI2xPYy880KUsoknir4lY0s534FofhAukJ0',
+    women_text:''
 })
 puts 'Done seeding females'
 puts 'seeding blogs'
