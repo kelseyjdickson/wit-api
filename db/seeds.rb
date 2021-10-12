@@ -15,18 +15,19 @@ joy = Female.create ({
         company: "Algorithmic Justice League",
         job_title: 'Computer Scientist - Poet of Code',
         contact_link: 'https://www.linkedin.com/in/buolamwini/',
-        image: 'https://media-exp1.licdn.com/dms/image/C4E03AQGpjkHt21lTww/profile-displayphoto-shrink_200_200/0/1579368606627?e=1637193600&v=beta&t=L4SVsa9w3hTaRrI9YlwI1ApDpULotkWwAs-nsn-knaI'
+        image: 'https://media-exp1.licdn.com/dms/image/C4E03AQGpjkHt21lTww/profile-displayphoto-shrink_200_200/0/1579368606627?e=1637193600&v=beta&t=L4SVsa9w3hTaRrI9YlwI1ApDpULotkWwAs-nsn-knaI',
+        women_text: 'Joy is a Computer Scientist and Digital Activist who founded Algorithmic Justice League. Joy’s Ted Talk on algorithmic bias has been viewed more than a million times. Joy has influenced large tech companies to put a hold on developing facial recognition once federal regulations pass. She has testified before congress citing risks embedded in AI algorithms while explaining how many communities are harmed or impacted by this technology. Joy’s recent documentary, Coded Bias, shows her investigation of widespread bias in Algorithms.'
 
     })
 
 kristal = Female.create({
         
-        name: 'Kristal Garcia',
+        name: 'Kristal Soman',
         company: "Year One",
         job_title: 'Chief Strategy Officer',
         contact_link: 'https://www.linkedin.com/in/kgarcia4/',
-        image: 'https://media-exp1.licdn.com/dms/image/C5603AQHLXPPW9BrDuQ/profile-displayphoto-shrink_400_400/0/1600981335532?e=1634774400&v=beta&t=7ymEp66j6zMZHNfSy6KTqcT_8IA2qnuBF1o2TnjWbVw'
-      
+        image: 'https://media-exp1.licdn.com/dms/image/C5603AQHLXPPW9BrDuQ/profile-displayphoto-shrink_400_400/0/1600981335532?e=1634774400&v=beta&t=7ymEp66j6zMZHNfSy6KTqcT_8IA2qnuBF1o2TnjWbVw',
+        women_text:'Kristal is a huge pillar in the tech community, advocating for BIPOC, women, and folks from non-traditional backgrounds break their way into the tech world. Kristal believes anyone from any background can make it into tech, and that those she has helped along the way can one day help to open the doors for other newcomers. Kristal serves as a community lead at Techqueria, a large non-profit that serves the largest community of Latinx professionals in tech. Kristal works as a Software Engineer at Buzzfeed and Chief Strategy Officer at YearOne.'
       })
 erica = Female.create({
         
@@ -34,8 +35,8 @@ erica = Female.create({
         company: "DCCC",
         job_title: 'Chief Technology Officer',
         contact_link: 'https://www.linkedin.com/in/ericajoy/',
-        image: 'https://media-exp1.licdn.com/dms/image/C5603AQF0Z_tWZ1Islg/profile-displayphoto-shrink_800_800/0/1516235373484?e=1637193600&v=beta&t=4UWqHOvvQJVAC0cyc9xRBgygJJxVgwc9_WHT85QYzVs'
-
+        image: 'https://media-exp1.licdn.com/dms/image/C5603AQF0Z_tWZ1Islg/profile-displayphoto-shrink_800_800/0/1516235373484?e=1637193600&v=beta&t=4UWqHOvvQJVAC0cyc9xRBgygJJxVgwc9_WHT85QYzVs',
+        women_text: 'Erica Joy Baker is the Director of Engineering at Github. She has worked at Google, Slack, Patreon, and Microsoft. She has also been on the Advisory Boards for Hack the Hood, Girl Develop It, the Code.org Diversity Council, The Barbie Global Advisory, and as a Tech Mentor for Black Girls Code. Erica has been in the industry long enough to see the ins and outs of this particularly white-male dominated industry. Erica has been a huge advocate for diversity and inclusion. She is one of the founding members of Project Include, which helps companies to incorporate three values: Inclusion, Comprehensiveness, and Accountability.'
       })
 
 kimberly = Female.create({
@@ -44,7 +45,9 @@ kimberly = Female.create({
           company: "Black Girls Code",
           job_title: 'Founder and CEO of Black Girls Code',
           contact_link: 'https://www.linkedin.com/in/kimberlybryant/',
-          image: 'https://media-exp1.licdn.com/dms/image/C5603AQF8s0RURIyiVg/profile-displayphoto-shrink_400_400/0/1525450649976?e=1637193600&v=beta&t=cn16HH5cbvlYIft0rwCbphZXKqdLQxybOSgL_PNDAOw'
+          image: 'https://media-exp1.licdn.com/dms/image/C5603AQF8s0RURIyiVg/profile-displayphoto-shrink_400_400/0/1525450649976?e=1637193600&v=beta&t=cn16HH5cbvlYIft0rwCbphZXKqdLQxybOSgL_PNDAOw',
+          women_text:'Kimberly founded Black Girls Code in 2011, a San Francisco based non-profit, which teaches young and pre-teen girls basic programming skills and in-demand technology through workshops and after school programs. Kimberly was inspired to find a more inclusive environment after her daughter expressed interest in programming.
+          Kimberly hopes this exposure to young girls, especially those in underrepresented communities, helps encourage them to remain active in the STEM field. African American women make up 3% of the tech industry workforce. Black Girls Code is on a mission to change those statistics and to increase awareness within the tech world. The goal is to teach 1 million African American girls to code by 2040.'
 
       })
 reshma = Female.create({
@@ -53,8 +56,8 @@ reshma = Female.create({
         company: "Girls Who Code",
         job_title: 'Founder of Girls Who Code',
         contact_link: 'https://www.linkedin.com/in/reshma-saujani/',
-        image: 'https://media-exp1.licdn.com/dms/image/C4D03AQEu66656x4unA/profile-displayphoto-shrink_400_400/0/1621632282104?e=1637193600&v=beta&t=EUsT0ZUWUhWQWjA9zChtq_mvsiusekq9g0roiRzTqAQ'
-
+        image: 'https://media-exp1.licdn.com/dms/image/C4D03AQEu66656x4unA/profile-displayphoto-shrink_400_400/0/1621632282104?e=1637193600&v=beta&t=EUsT0ZUWUhWQWjA9zChtq_mvsiusekq9g0roiRzTqAQ',
+        women_text:'During her run for U.S. Congress in 2010, Reshma visited local schools and witnessed firsthand the gender gap in computer classes. This led her to start Girls Who Code, with a mission of empowering young girls to explore technology. Girls Who Code also works with legislation to close the gender gap in K-12 classrooms, recommending their Policy Agenda to increase overall girls participation in computer science. 300k young girls have been served by Girls Who Code through their immersion programs, after school clubs, and college loops. Girls Who Code is committed to helping close the gender gap and their research shows that this could become a reality for entry-level jobs in 2027.'
       })
 tiauna = Female.create({
     name: 'Tiauna Paul',
