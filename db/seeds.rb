@@ -64,7 +64,7 @@ tiauna = Female.create({
     company:'New Relic',
     job_title: 'Community Support Engineer',
     contact_link: 'https://www.linkedin.com/in/tiauna-paul-0981ab193/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQG4USrSxVttPg/profile-displayphoto-shrink_200_200/0/1608185300218?e=1634169600&v=beta&t=nlaoNaO4bsX2bsj0N0j_Zaqt5TtayyeAgWLZCvlP2Rg',
+    image: 'https://miro.medium.com/max/1000/1*QLBdQBJfhsAMkGB8eW9eyg.png',
     women_text:'Tiauna Paul is a graduate from Flatiron School where she completed the Software Engineering program. Anyone who has been through an immersive programming bootcamp knows what an intense and emotional commitment it can be. To add to that dynamic, Tiauna’s baby was an inpatient awaiting a heart transplant during the program. Tiauna showed incredible courage and strength by remaining determined to make it through the course, and she did so with grace. Tiauna transitioned into tech hoping to use her problem-solving skills and to be challenged daily. She is most passionate about frontend development and has a love for JavaScript and React. She enjoys building impactful user-friendly applications. Tiauna has goals of continuing to grow her frontend knowledge and landing her first full-time Sofware Engineer role.'
 })
 veni = Female.create({
@@ -72,7 +72,7 @@ veni = Female.create({
     company:'Diversify Tech',
     job_title: 'Founder of Diversify Tech',
     contact_link: 'https://www.linkedin.com/in/venikunche/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQH90S-5fJpE6g/profile-displayphoto-shrink_200_200/0/1516260984901?e=1634169600&v=beta&t=DbIgrpjQSk8PWqP10tylw1tLdHKAb5HygYG_imwu_a8',
+    image: 'https://miro.medium.com/max/450/1*tuGVPOL_S5O5v1M8X5i21g.png',
     women_text:'Veni Kunche is the founder of Diversify Tech. Diversify Tech connects underrepresented folks in tech with jobs, resources, events, scholarships and speaking opportunities as well as helping companies hire diverse talent. The Diversify weekly newsletter goes out to 10,000+ underrepresented folks. The Diversify community is largely made up of developer, data, design, and product backgrounds ranging from entry-level to senior level. Veni has been in the industry for over 15 years and previously worked as a Sofware Engineer. She continues in her role at Diversify as the companies founder.'
 })
 catherine = Female.create({
@@ -80,7 +80,7 @@ catherine = Female.create({
     company:'Stitch Fix',
     job_title: 'Software Engineer - Artists Who Code',
     contact_link: 'https://www.linkedin.com/in/catherinericafortmccreary/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQE2-xUyIyijQg/profile-displayphoto-shrink_200_200/0/1569865760735?e=1634169600&v=beta&t=zQ3oZRC6x9pnTxBwvIEoua2jXZn32aYLyYvxpHu3ghc',
+    image: 'https://miro.medium.com/max/500/1*R_41f0irw12-W0IiL6tJrQ.png',
     women_text: "Catherine is Co-Founder of Artists Who Code, an organization that advocates for creative professionals with non-traditional backgrounds in tech. Catherine also works as a Software Engineer at Stitch Fix. Prior to her journey and advocacy in tech, Catherine was a Broadway performer, appearing in multiple Broadway shows and television appearances. Artists Who Code has been a great resource for creative professionals looking to pivot during the COVID-19 pandemic. They have helped 100+ creatives land their first role in tech during this difficult time."
 })
 naz = Female.create({
