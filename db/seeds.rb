@@ -64,7 +64,7 @@ tiauna = Female.create({
     company:'New Relic',
     job_title: 'Community Support Engineer',
     contact_link: 'https://www.linkedin.com/in/tiauna-paul-0981ab193/',
-    image: 'https://miro.medium.com/max/1000/1*QLBdQBJfhsAMkGB8eW9eyg.png',
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQG4USrSxVttPg/profile-displayphoto-shrink_200_200/0/1608185300218?e=1639612800&v=beta&t=66WhIbs12HZ8kAdXaQsTvit4MUS9Kc-O49z4cTj_agw',
     women_text:'Tiauna Paul is a graduate from Flatiron School where she completed the Software Engineering program. Anyone who has been through an immersive programming bootcamp knows what an intense and emotional commitment it can be. To add to that dynamic, Tiauna’s baby was an inpatient awaiting a heart transplant during the program. Tiauna showed incredible courage and strength by remaining determined to make it through the course, and she did so with grace. Tiauna transitioned into tech hoping to use her problem-solving skills and to be challenged daily. She is most passionate about frontend development and has a love for JavaScript and React. She enjoys building impactful user-friendly applications. Tiauna has goals of continuing to grow her frontend knowledge and landing her first full-time Sofware Engineer role.'
 })
 veni = Female.create({
