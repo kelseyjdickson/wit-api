@@ -80,7 +80,7 @@ catherine = Female.create({
     company:'Stitch Fix',
     job_title: 'Software Engineer - Artists Who Code',
     contact_link: 'https://www.linkedin.com/in/catherinericafortmccreary/',
-    image: 'https://miro.medium.com/max/500/1*R_41f0irw12-W0IiL6tJrQ.png',
+    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQE2-xUyIyijQg/profile-displayphoto-shrink_200_200/0/1569865760735?e=1639612800&v=beta&t=5oDiSzbgSl7tVDSl_vmG8FrydcFVROs_Jf1uf0XNaf4',
     women_text: "Catherine is Co-Founder of Artists Who Code, an organization that advocates for creative professionals with non-traditional backgrounds in tech. Catherine also works as a Software Engineer at Stitch Fix. Prior to her journey and advocacy in tech, Catherine was a Broadway performer, appearing in multiple Broadway shows and television appearances. Artists Who Code has been a great resource for creative professionals looking to pivot during the COVID-19 pandemic. They have helped 100+ creatives land their first role in tech during this difficult time."
 })
 naz = Female.create({
