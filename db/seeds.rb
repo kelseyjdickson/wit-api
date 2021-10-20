@@ -28,7 +28,7 @@ kristal = Female.create({
         job_title: 'Chief Strategy Officer',
         contact_link: 'https://www.linkedin.com/in/kgarcia4/',
         image: 'https://media-exp1.licdn.com/dms/image/C5603AQHLXPPW9BrDuQ/profile-displayphoto-shrink_400_400/0/1600981335532?e=1634774400&v=beta&t=7ymEp66j6zMZHNfSy6KTqcT_8IA2qnuBF1o2TnjWbVw',
-        women_text:'Kristal is a huge pillar in the tech community, advocating for BIPOC, women, and folks from non-traditional backgrounds break their way into the tech world. Kristal believes anyone from any background can make it into tech, and that those she has helped along the way can one day help to open the doors for other newcomers. Kristal serves as a community lead at Techqueria, a large non-profit that serves the largest community of Latinx professionals in tech. Kristal works as a Software Engineer at Buzzfeed and Chief Strategy Officer at YearOne.',
+        women_text:'Kristal is a huge pillar in the tech community, advocating for BIPOC, women, and folks from non-traditional backgrounds break their way into the tech world. Kristal believes anyone from any background can make it into tech, and that those she has helped along the way can one day help to open the doors for other newcomers. Kristal serves as a community lead at Techqueria, a large non-profit that serves the largest community of Latinx professionals in tech. Kristal has worked as a Software Engineer at Buzzfeed and is currently Chief Strategy Officer at YearOne.',
         website: "https://www.kristal.dev/"
       })
 erica = Female.create({
