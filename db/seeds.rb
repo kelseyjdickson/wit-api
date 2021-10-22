@@ -27,7 +27,7 @@ kristal = Female.create({
         company: "Year One",
         job_title: 'Chief Strategy Officer',
         contact_link: 'https://www.linkedin.com/in/kgarcia4/',
-        image: 'https://media-exp1.licdn.com/dms/image/C5603AQHLXPPW9BrDuQ/profile-displayphoto-shrink_400_400/0/1600981335532?e=1634774400&v=beta&t=7ymEp66j6zMZHNfSy6KTqcT_8IA2qnuBF1o2TnjWbVw',
+        image: 'https://media-exp1.licdn.com/dms/image/C5603AQHLXPPW9BrDuQ/profile-displayphoto-shrink_400_400/0/1600981335532?e=1640217600&v=beta&t=czlUlSbZpclw8N--3JevOCB3Hv7M-lkVOq_ZluhweyQ',
         women_text:'Kristal is a huge pillar in the tech community, advocating for BIPOC, women, and folks from non-traditional backgrounds break their way into the tech world. Kristal believes anyone from any background can make it into tech, and that those she has helped along the way can one day help to open the doors for other newcomers. Kristal serves as a community lead at Techqueria, a large non-profit that serves the largest community of Latinx professionals in tech. Kristal has worked as a Software Engineer at Buzzfeed and is currently Chief Strategy Officer at YearOne.',
         website: "https://www.kristal.dev/"
       })
@@ -105,7 +105,7 @@ manon = Female.create({
     company:'Currently Job Seeking',
     job_title: 'Software Engineer - Artist',
     contact_link: 'https://www.linkedin.com/in/manon-sainton-7830b01ab/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4E03AQHrouWw4QWN8Q/profile-displayphoto-shrink_200_200/0/1611784379011?e=1634774400&v=beta&t=BxZnoaJw-AQbLWfKNuwljK4dhsM48x3LchIZv7Qc5i0',
+    image: 'https://media-exp1.licdn.com/dms/image/C4E03AQHrouWw4QWN8Q/profile-displayphoto-shrink_400_400/0/1611784379011?e=1640217600&v=beta&t=EYctjode4NU3hotsm7nVQow1DRyiVy8dzXrDPltuVLc',
     women_text: "Manon is a Software Engineer and an NYC-based artist who goes by Sleepyfoot?. Manon has a background in art, education and technology. After working closely with engineers and data scientists in a previous role, Manon began to think about how she could incorporate tech into her practice as a synesthetic interdisciplinary artist. In 2020, Manon attended Flatiron School’s Software Engineering program. Manon is passionate about access and imagination. Manon says,” What can we build for communities? As we gain more experience during our time as an engineer, what can we conceive through code? What amendments can we make or solutions can we find that will shatter broken realities? I love the intersection of ideas and imagination. I’m excited to see what the future will bring!” Manon’s goals include helping bring exposure and helping women of color enter the tech industry. Manon believes in having a community to lean on without fancy word speak, bringing true authenticity, and providing support/empathy for any insecurities that may arise.",
     website: ""
 })
@@ -114,7 +114,7 @@ sammi = Female.create({
     company:'SourceStrike',
     job_title: 'Software Engineer',
     contact_link: 'https://www.linkedin.com/in/samantha-flores-313024112/',
-    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEhpvVMlO4Naw/profile-displayphoto-shrink_200_200/0/1609364301369?e=1634774400&v=beta&t=IBiDqvBJTTorh9zuZVkDRWxGq012gsZsktY3WooxzOk',
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEhpvVMlO4Naw/profile-displayphoto-shrink_400_400/0/1609364301369?e=1640217600&v=beta&t=CRmR8bJcovma_vLsFAvF9kHxzYzjNyADh3hxkEUDPXE',
     women_text: 'Sammi’s background is in microbiology with an emphasis in medical lab research and testing, but she found a new passion for development after attending a full-stack coding boot camp at the University of California, Irvine in 2019. Since then she has experience working as a full-stack engineer at a fast-paced online start-up visualizing data in graphical formats, overhauling old and worn out features to reduce technical debt, and working closely with a small team to increase overall knowledge. Her career goals include becoming the type of mentor she always wanted and/or was lucky enough to have; constantly learning and passing that knowledge along to others, and never forgetting that it’s all “just code” and every problem is approachable. Personally, she hopes to become a better runner/run a 10k by the end of the year, get better at her hobby of making resin D&D/TTRPG dice, and to travel to every MLB stadium.',
     website: ""
 })
