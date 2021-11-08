@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  # root to: "females#show"
+   root to: "blogs#index"
   resources :blogs
   resources :females
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
