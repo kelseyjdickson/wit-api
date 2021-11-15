@@ -80,6 +80,7 @@ test:
 #
 production:
   <<: *default
-  database: wit_api_production
-  username: wit_api
-  password: <%= ENV['WIT_API_DATABASE_PASSWORD'] %>
+  database: <%= ENV['DATABASE_URL'] %>
+  # database: wit_api_production
+  # username: wit_api
+  # password: <%= ENV['WIT_API_DATABASE_PASSWORD'] %>
