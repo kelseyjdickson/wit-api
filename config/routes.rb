@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  
+  root 'welcome#index'
   resources :blogs , only: [:index,:show]
   resources :females, only: [:index,:show, :create, :update, :destroy]
   
