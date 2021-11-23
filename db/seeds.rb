@@ -38,7 +38,7 @@ erica = Female.create({
         job_title: 'Chief Technology Officer',
         contact_link: 'https://www.linkedin.com/in/ericajoy/',
         image: 'https://media-exp1.licdn.com/dms/image/C4E03AQGpjkHt21lTww/profile-displayphoto-shrink_200_200/0/1579368606627?e=1642636800&v=beta&t=dO07mtlGzebs9jneHjo-RYuCf8_7t61Lq92qRPy6Nuk',
-        women_text: 'Erica Joy Baker is the Director of Engineering at Github. She has worked at Google, Slack, Patreon, and Microsoft. She has also been on the Advisory Boards for Hack the Hood, Girl Develop It, the Code.org Diversity Council, The Barbie Global Advisory, and as a Tech Mentor for Black Girls Code. Erica has been in the industry long enough to see the ins and outs of this particularly white-male dominated industry. Erica has been a huge advocate for diversity and inclusion. She is one of the founding members of Project Include, which helps companies to incorporate three values: Inclusion, Comprehensiveness, and Accountability.',
+        women_text: 'Erica Joy Baker is the CTO at DCCC. She has worked at Github,Google, Slack, Patreon, and Microsoft. She has also been on the Advisory Boards for Hack the Hood, Girl Develop It, the Code.org Diversity Council, The Barbie Global Advisory, and as a Tech Mentor for Black Girls Code. Erica has been in the industry long enough to see the ins and outs of this particularly white-male dominated industry. Erica has been a huge advocate for diversity and inclusion. She is one of the founding members of Project Include, which helps companies to incorporate three values: Inclusion, Comprehensiveness, and Accountability.',
         website: "https://www.ericabaker.com/"
       })
 
