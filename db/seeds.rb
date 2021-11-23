@@ -15,7 +15,7 @@ joy = Female.create ({
         company: "Algorithmic Justice League",
         job_title: 'Computer Scientist - Poet of Code',
         contact_link: 'https://www.linkedin.com/in/buolamwini/',
-        image: 'https://media-exp1.licdn.com/dms/image/C4E03AQGpjkHt21lTww/profile-displayphoto-shrink_200_200/0/1579368606627?e=1642636800&v=beta&t=dO07mtlGzebs9jneHjo-RYuCf8_7t61Lq92qRPy6Nuk',
+        image: 'https://media-exp1.licdn.com/dms/image/C4E03AQGpjkHt21lTww/profile-displayphoto-shrink_800_800/0/1579368606627?e=1643241600&v=beta&t=vkrY8qp4-LyP1hrjDXp2hsxIgXfyGCkz8DuY1XcIb2o',
         women_text: 'Joy is a Computer Scientist and Digital Activist who founded Algorithmic Justice League. Joy’s Ted Talk on algorithmic bias has been viewed more than a million times. Joy has influenced large tech companies to put a hold on developing facial recognition once federal regulations pass. She has testified before congress citing risks embedded in AI algorithms while explaining how many communities are harmed or impacted by this technology. Joy’s recent documentary, Coded Bias, shows her investigation of widespread bias in Algorithms.',
         website: "https://www.poetofcode.com/"
 
@@ -37,7 +37,7 @@ erica = Female.create({
         company: "DCCC",
         job_title: 'Chief Technology Officer',
         contact_link: 'https://www.linkedin.com/in/ericajoy/',
-        image: 'https://media-exp1.licdn.com/dms/image/C4E03AQGpjkHt21lTww/profile-displayphoto-shrink_200_200/0/1579368606627?e=1642636800&v=beta&t=dO07mtlGzebs9jneHjo-RYuCf8_7t61Lq92qRPy6Nuk',
+        image: 'https://media-exp1.licdn.com/dms/image/C5603AQF0Z_tWZ1Islg/profile-displayphoto-shrink_800_800/0/1516235373484?e=1643241600&v=beta&t=Lk-bS9GPX14ihNcCsQfqOJ5LUlppb5o8ie5CE90guj0',
         women_text: 'Erica is the CTO at DCCC. She has worked at Github,Google, Slack, Patreon, and Microsoft. She has also been on the Advisory Boards for Hack the Hood, Girl Develop It, the Code.org Diversity Council, The Barbie Global Advisory, and as a Tech Mentor for Black Girls Code. Erica has been in the industry long enough to see the ins and outs of this particularly white-male dominated industry. Erica has been a huge advocate for diversity and inclusion. She is one of the founding members of Project Include, which helps companies to incorporate three values: Inclusion, Comprehensiveness, and Accountability.',
         website: "https://www.ericabaker.com/"
       })
