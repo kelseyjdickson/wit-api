@@ -15,7 +15,7 @@ joy = Female.create ({
         company: "Algorithmic Justice League",
         job_title: 'Computer Scientist - Poet of Code',
         contact_link: 'https://www.linkedin.com/in/buolamwini/',
-        image: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fa9p9n2x2.stackpathcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fimage-16-e1631885962703.jpeg&imgrefurl=https%3A%2F%2Fwww.blackenterprise.com%2Fdecodethebias-joy-buolamwini-and-olay-partner-to-end-to-racial-bias-in-computer-science%2F&tbnid=vjG2Z1PKn4XFGM&vet=12ahUKEwjQp7ySvsP0AhXsr3IEHbKUCbYQMygDegUIARC9AQ..i&docid=427I5OSpHkbQZM&w=1052&h=681&itg=1&q=joy%20buolamwini&ved=2ahUKEwjQp7ySvsP0AhXsr3IEHbKUCbYQMygDegUIARC9AQ',
+        image: Rails.root.join('app', 'assets', 'images', 'joy.png'),
         women_text: 'Joy is a Computer Scientist and Digital Activist who founded Algorithmic Justice League. Joy’s Ted Talk on algorithmic bias has been viewed more than a million times. Joy has influenced large tech companies to put a hold on developing facial recognition once federal regulations pass. She has testified before congress citing risks embedded in AI algorithms while explaining how many communities are harmed or impacted by this technology. Joy’s recent documentary, Coded Bias, shows her investigation of widespread bias in Algorithms.',
         website: "https://www.poetofcode.com/"
 
