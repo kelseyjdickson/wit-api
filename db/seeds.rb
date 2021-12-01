@@ -9,17 +9,17 @@ Blog.destroy_all
 Female.destroy_all 
 
 puts 'Seeding females'
-joy = Female.create ({
+# joy = Female.create ({
       
-        name: 'Joy Buolamwini',
-        company: "Algorithmic Justice League",
-        job_title: 'Computer Scientist - Poet of Code',
-        contact_link: 'https://www.linkedin.com/in/buolamwini/',
-        image: 'https://media-exp1.licdn.com/dms/image/C4E03AQGpjkHt21lTww/profile-displayphoto-shrink_800_800/0/1579368606627?e=1643241600&v=beta&t=vkrY8qp4-LyP1hrjDXp2hsxIgXfyGCkz8DuY1XcIb2o',
-        women_text: 'Joy is a Computer Scientist and Digital Activist who founded Algorithmic Justice League. Joy’s Ted Talk on algorithmic bias has been viewed more than a million times. Joy has influenced large tech companies to put a hold on developing facial recognition once federal regulations pass. She has testified before congress citing risks embedded in AI algorithms while explaining how many communities are harmed or impacted by this technology. Joy’s recent documentary, Coded Bias, shows her investigation of widespread bias in Algorithms.',
-        website: "https://www.poetofcode.com/"
+#         name: 'Joy Buolamwini',
+#         company: "Algorithmic Justice League",
+#         job_title: 'Computer Scientist - Poet of Code',
+#         contact_link: 'https://www.linkedin.com/in/buolamwini/',
+#         image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRWC6ekE74TGTZhri83tljcVDNATrYJHN5R1wpYEFYTU6jDWrtU7anqK94VV2qCF6gDeic-1V9G_4bQ_bqCg8vbdacoNqb-lYDE-13nPhyw&usqp=CAc',
+#         women_text: 'Joy is a Computer Scientist and Digital Activist who founded Algorithmic Justice League. Joy’s Ted Talk on algorithmic bias has been viewed more than a million times. Joy has influenced large tech companies to put a hold on developing facial recognition once federal regulations pass. She has testified before congress citing risks embedded in AI algorithms while explaining how many communities are harmed or impacted by this technology. Joy’s recent documentary, Coded Bias, shows her investigation of widespread bias in Algorithms.',
+#         website: "https://www.poetofcode.com/"
 
-    })
+#     })
 
 kristal = Female.create({
         
@@ -96,7 +96,7 @@ naz = Female.create({
     company:'Netflix',
     job_title: 'Production Engineer - Career Coach',
     contact_link: 'https://www.linkedin.com/in/nazdelam/',
-    image: 'https://media-exp1.licdn.com/dms/image/C4D03AQFhfY6WyWXeIg/profile-displayphoto-shrink_200_200/0/1632031323112?e=1638403200&v=beta&t=zRp5B_o6NtKzZIM9CLFAaB1DZGcZ7okYxhMXVmQqtkw',
+    image: 'https://miro.medium.com/max/1000/1*JaVfI49QX1wk9pnr-qkQqw.png',
     women_text: "Naz is a Computer Scientist and has worked as a Software Engineer, Engineering Manager and Software Architect. Naz is passionate about mentorship and helping others grow their skills and has worked with new engineers through Hours of Code, Built By Girls, and various other platforms. Naz continues to offer monthly mentoring and one-off sessions to help engineers strengthen their skillsets and grow their careers. Naz has given talks for career growth and engineering at events such as Women of Silicon Valley and Women in Tech and many other speaking engagements.",
     website: "http://naz.dev/"
 })
